@@ -9,11 +9,7 @@ menu:
   Tags: tags
   Categories: categories
   About: about
-  Github: https://github.com/Baileyswu/Baileyswu.github.io
-
-social:
-  GitHub: https://github.com/Baileyswu
-  Weibo: http://weibo.com/Danliwoo
+  Github: https://github.com/ECNUPRML/ecnuprml.github.io
 
 # Google analytics
 google_analytics: false
@@ -37,8 +33,8 @@ jiathisConfig:
 # Valine 评论 https://valine.js.org
 valine:
   enable: true # 如果你想用Valine评论系统，请设置enable为true
-  appId: 0Fj98eQg9XCdRJPI2p1yxYCN-gzGzoHsz #your leancloud appId
-  appKey: Qsrhj224GhWhBgFDfnfmuRCD #your leancloud appKey
+  appId: EPK9T2J9yGw23C2FeKGcwJ2d-gzGzoHsz #your leancloud appId
+  appKey: PUwKL3AIJDYJvH0qPVEuMvVM #your leancloud appKey
   guest_info: nick,mail,link #valine comment header info
   placeholder: 我不要你觉得，我要我觉得~ # valine comment input placeholder(like: Please leave your footprints )
   avatar: robohash # gravatar style https://valine.js.org/avatar
@@ -87,7 +83,7 @@ turnoffBackgroundImage:
   # post and page
   post: false
 # when you turn off backgrounds, you can set a background color.
-backgroundColor: 34495E
+backgroundColor: A0522D
  
 backgroundImages:
 # - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_1.jpg?imageView2/1/w/__width__/h/__height__
